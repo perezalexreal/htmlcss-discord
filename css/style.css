@@ -163,13 +163,13 @@ footer{
     padding:50px 50px 0 0;
 }
 
-.col-map{
+.col-links{
     width: 25%;
 }
 
-.col-social h2, h4{
+.col-socials h2, h4{
     color: #89a2e6;
-    margin-bottom: 20px;
+    margin-bottom: 18px;
 }
 
 .language{
